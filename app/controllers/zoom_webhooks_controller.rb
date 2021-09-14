@@ -1,7 +1,6 @@
 class ZoomWebhooksController < ApplicationController
   def hook
-    logger.info params[:event]
-    logger.info params[:payload]
-    puts 'hello world'
+    puts params[:event]
+    puts params[:payload]
   end
 end
