@@ -25,11 +25,20 @@ Things you may want to cover:
 
 ## Questions to Answer
 
-* What to do if someone is logged into an SAB account?
+
 * How do we specify which meetings to track attendance for?
     * Do we have to tell this "attendance bot" to take attendance?
     * Should it comb calendars and figure out which meetings to take attendance for?
+    * Put something in the event name?
+    * Some convention like Zoom link is always in the Location of the meeting
 * Could this be a chat bot that students interact with?
+* What are all the ways Zoom meetings are created?
+    * Zoom Scheduler Chrome Extension
+    * Zoom Web Interface
+    * Personal Meeting Rooms
+* Can we retroactively take attendance?
+* Will this work for personal meeting rooms?
+* What to do if someone is logged into an SAB account?
 
 
 ## Notes
